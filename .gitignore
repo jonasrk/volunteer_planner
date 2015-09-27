@@ -5,7 +5,6 @@ node_modules
 settings/production.py
 *.gz
 fabfile.py
-manlocal.py
 db.sqlite3
 .DS_Store
 *.mo
